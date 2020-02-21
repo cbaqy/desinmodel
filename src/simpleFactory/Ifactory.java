@@ -1,5 +1,5 @@
 package simpleFactory;
 
 public interface  Ifactory {
-    Apple getApple();
+    Apple getApple(int  i);
 }

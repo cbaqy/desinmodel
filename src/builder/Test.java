@@ -2,6 +2,7 @@ package builder;
 
 /**
  * 建造者模式的测试
+ * 侧重指挥的顺序作用，最后产出的是一个产出的对象
  */
 public class Test {
     public static void main(String[] args) {

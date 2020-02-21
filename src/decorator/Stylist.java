@@ -1,6 +1,6 @@
 package decorator;
 
-public class Stylist extends Actor{
+public class Stylist {
     protected  Actor actor;
     public void  makeUp(Actor actor){
         this.actor=actor;
